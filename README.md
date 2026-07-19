@@ -20,7 +20,7 @@ I am a passionate Frontend Developer from Lublin, Poland, dedicated to building 
 
 ---
 
-## 🛠 My Tech Stack
+##  My Tech Stack
 
 <p align="left">
   <!-- Use SVG icons for a professional look. Remove unused icons or add new ones.
@@ -31,7 +31,7 @@ I am a passionate Frontend Developer from Lublin, Poland, dedicated to building 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 Here are a few of my favorite projects that I've worked on recently:
 
@@ -42,15 +42,7 @@ Here are a few of my favorite projects that I've worked on recently:
 - **[YogaBloom]**: A mobile-first landing page built with a strong focus on clean UI/UX. The project involved pixel-perfect implementation from Figma designs and strict version control integration.
   - *Stack:* JS, HTML, CSS.
   - *Link:* [View Repo/Demo](https://mykhailo-tyshynskyi.github.io/project-Millennium_Falcon/)
-
-## 📊 GitHub Stats
-
-<!-- Replace [YOUR-USERNAME] with your actual GitHub username -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grizzy0512&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-## 📫 Connect With Me
+##  Connect With Me
 
 *   💼 LinkedIn: [Viktor Omeliuta](https://www.linkedin.com/in/viktor-omeliuta-507a40259/)
 *   📩 Email: [[viktoromeliuta@gmail.com]](mailto:viktoromeliuta@gmail.com)
