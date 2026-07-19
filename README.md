@@ -27,7 +27,6 @@ I am a passionate Frontend Developer from Lublin, Poland, dedicated to building 
        You can find more icons at badges.io or shields.io -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
 </p>
@@ -38,7 +37,7 @@ Here are a few of my favorite projects that I've worked on recently:
 
 - **[House Pet]**: A responsive web platform for an animal shelter, developed in a collaborative team environment. I facilitated Agile workflows as a Scrum Master and contributed to the frontend by building a JavaScript-based interactive review slider.
   - *Stack:* JS, HTML, CSS.
-  - *Link:* [View Repo/Demo]((https://ivannovokhatko.github.io/doctorcrew/))
+  - *Link:* [View Repo/Demo](https://ivannovokhatko.github.io/doctorcrew/)
 
 - **[YogaBloom]**: A mobile-first landing page built with a strong focus on clean UI/UX. The project involved pixel-perfect implementation from Figma designs and strict version control integration.
   - *Stack:* JS, HTML, CSS.
