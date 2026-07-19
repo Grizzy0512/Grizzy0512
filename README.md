@@ -54,4 +54,4 @@ Here are a few of my favorite projects that I've worked on recently:
 ## 📫 Connect With Me
 
 *   💼 LinkedIn: [Viktor Omeliuta](https://www.linkedin.com/in/viktor-omeliuta-507a40259/)
-*   📩 Email: [[viktoromeliuta@example.com]](mailto:viktoromeliuta@gmail.com)
+*   📩 Email: [[viktoromeliuta@gmail.com]](mailto:viktoromeliuta@gmail.com)
